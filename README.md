@@ -15,5 +15,5 @@ Este projeto foi desenvolvido para apresentar informações sobre mim utilizando
 
 ## 🚀 Como Visualizar
 Acesse o projeto hospedado via GitHub Pages:
-[https://seuusuario.github.io/about-me](https://seuusuario.github.io/about-me)
+[https://denysleo.github.io/about-me](https://denysleo.github.io/about-me)
 
